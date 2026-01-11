@@ -2,7 +2,7 @@
 1. Clone the repo 
    ```bash
    git clone https://github.com/Niranjan1310/Virtual-Try-On
-   cd React-Virtual-Try-on
+   cd Virtual-Try-on
 2. Run backend
    ```bash
    python -m venv venv
