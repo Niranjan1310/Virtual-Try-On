@@ -2,7 +2,7 @@
 1. Clone the repo 
    ```bash
    git clone https://github.com/Niranjan1310/Virtual-Try-On
-   cd Virtual-Try-on
+   cd Virtual-Try-On
 2. Run backend
    ```bash
    python -m venv venv
