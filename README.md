@@ -1,7 +1,7 @@
 ## How to Run Locally
-1. Clone the repo https://github.com/Niranjan1310/Virtual-Try-On/edit/main/README.md
+1. Clone the repo 
    ```bash
-   git clone 
+   git clone https://github.com/Niranjan1310/Virtual-Try-On
    cd React-Virtual-Try-on
 2. Run backend
    ```bash
